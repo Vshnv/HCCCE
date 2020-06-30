@@ -8,7 +8,7 @@ Everyone is welcome to participate just make sure you read the rules below befor
 This is the first ever HCCCE and doesn't really have a defined topic, so make it yours!
 
 ## Rules:
-* Commits must be no more than 100 characters in total.
+* Commits must be no more than 100 characters in total (Whitespaces and Comments don't count).
 * You can not modify any code you did not push, work around it.
 * You can only commit after 3 other commits have been pushed by other people.
 * If you commit breaking code that renders the plugin non compilable, you must wait 6 commits to push more code.
