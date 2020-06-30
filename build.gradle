@@ -18,6 +18,12 @@ repositories {
         name = 'sonatype'
         url = 'https://oss.sonatype.org/content/groups/public/'
     }
+    // clip - start
+    maven {
+        name = 'papi'
+        url = 'https://repo.extendedclip.com/content/repositories/placeholderapi/'
+    }
+    // clip - end
 }
 
 dependencies {
