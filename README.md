@@ -15,3 +15,5 @@ This is the first ever HCCCE and doesn't really have a defined topic, so make it
 * No malicious code, duh.
 * You must comment your code with your name so we know who authored everything.
 * Comments don't count towards the characters limit, but comments mustn't have code in them.
+
+**We recommend that you build before you commit, to ensure your changes don't break anything!**
