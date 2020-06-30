@@ -6,8 +6,8 @@ public final class HCCCE extends JavaPlugin {
 
     @Override
     public void onEnable() {
+        SomethingKt.something();
         // Plugin startup logic
-
     }
 
     @Override
