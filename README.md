@@ -1,13 +1,13 @@
-#Welcome to the first HelpChat Community Code Experiment.
+# Welcome to the first HelpChat Community Code Experiment.
 
-#What even is this?
+## What even is this?
 Well glad you asked, one day we decided to see what would happen if you only allowed people to commit to a plugin that met a certain character limit.
 Everyone is welcome to participate just make sure you read the rules below before you get started.
 
-#Topic:
+## Topic:
 This is the first ever HCCCE and doesn't really have a defined topic, so make it yours!
 
-#Rules:
+## Rules:
 • Commits must be no more than 100 characters in total.
 • You can not modify any code you did not push, work around it.
 • You can only commit after 3 other commits have been pushed by other people.
